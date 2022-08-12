@@ -2,7 +2,7 @@
 
 And I'm a software engineer.
 
-You might know me better by my writing alias, Daine, or my favorite username, `thewildmage`.
+You might know me better by my writing alias, Daine, or my favorite username, `thewildmage`. I use she/her pronouns.
 
 I have a Bachelor of Science in Mathematics and Computer Science. I have professional experience as both a software quality assurance engineer and a database engineer. And I've made a hobby of front-end web development, where I advocate strongly for accessibility, inclusivity, usability, and open source.
 
